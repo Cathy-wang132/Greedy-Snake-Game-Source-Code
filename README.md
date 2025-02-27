@@ -3,6 +3,8 @@
 #### 源码下载
 地址：https://wwwoop.com/home/Index/projectInfo?goodsId=45&typeParam=1
 
+（开发不易，小偿获取，感谢理解~~~）
+
 #### 页面效果
 ![image](https://github.com/user-attachments/assets/a26ade98-47f0-4eb8-9622-df3aef0dab7d)
 ![image](https://github.com/user-attachments/assets/9f3ae0f5-e91c-462e-939a-0ef0a2e9fe3b)
